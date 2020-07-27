@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,6 +33,9 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="discordBot" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -46,7 +49,7 @@
   </component>
   <component name="RunManager">
     <configuration name="DiscordBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiscordBot" />
+      <option name="MAIN_CLASS_NAME" value="discordBot.DiscordBot" />
       <module name="MTGRotisserieDraftDiscordbotMaven" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,22 +83,46 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="735" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849139935" />
-    <state width="2502" height="400" key="GridCell.Tab.0.bottom" timestamp="1595849179467">
+    <state x="1011" y="480" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595859653413">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2502" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849179467" />
-    <state width="2502" height="400" key="GridCell.Tab.0.center" timestamp="1595849179467">
+    <state x="1011" y="480" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595859653413" />
+    <state x="968" y="560" width="687" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595859655336">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2502" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849179467" />
-    <state width="2502" height="400" key="GridCell.Tab.0.left" timestamp="1595849179467">
+    <state x="968" y="560" width="687" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595859655336" />
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1595865003544">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2502" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849179467" />
-    <state width="2502" height="400" key="GridCell.Tab.0.right" timestamp="1595849179467">
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595865003544" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1595865003544">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2502" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849179467" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595865003544" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1595865003544">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595865003544" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1595865003544">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595865003544" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1595861839265">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595861839265" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1595861839265">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595861839265" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1595861839265">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595861839265" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1595861839265">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595861839265" />
     <state x="811" y="356" key="Maven.ArtifactSearchDialog" timestamp="1595848119115">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -112,9 +139,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="731" y="321" key="new project wizard/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595842851066" />
-    <state x="937" y="331" width="672" height="677" key="run.anything.popup" timestamp="1595849169637">
+    <state x="937" y="331" width="672" height="677" key="run.anything.popup" timestamp="1595864991164">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="937" y="331" width="672" height="677" key="run.anything.popup/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849169637" />
+    <state x="937" y="331" width="672" height="677" key="run.anything.popup/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595864991164" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MTGRotisserieDraftDiscordbotMaven/src/main/java/discordBot/DiscordToken.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MTGRotisserieDraftDiscordbotMaven/src/main/java/discordBot/DiscordToken.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MTGRotisserieDraftDiscordbotMaven/src/main/java/discordBot/DiscordBot.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,3 +1,4 @@
+package discordBot;
 
 import discord4j.core.DiscordClientBuilder;
 import discord4j.core.GatewayDiscordClient;
@@ -6,9 +7,11 @@ import discord4j.core.event.domain.message.MessageCreateEvent;
 import discord4j.core.object.entity.Message;
 import discord4j.core.object.entity.User;
 
+
 public class DiscordBot {
     public static void main(String[] args) {
-        GatewayDiscordClient client = DiscordClientBuilder.create(DiscordToken.DISCORD_TOKEN.getToken()).build().login().block();
+        System.out.println(DiscordToken.getToken() + "outside noob" );
+        GatewayDiscordClient client = DiscordClientBuilder.create(DiscordToken.getToken()).build().login().block();
 
         client.getEventDispatcher().on(ReadyEvent.class)
                 .subscribe(event -> {

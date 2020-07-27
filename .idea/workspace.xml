@@ -7,6 +7,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -19,13 +27,36 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
+      <command value="mvn install" />
       <command value="mvn compile" />
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DiscordBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiscordBot" />
+      <module name="MTGRotisserieDraftDiscordbotMaven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DiscordBot" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,26 +72,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1595844028708">
+    <state x="873" y="359" key="#Project_Structure" timestamp="1595845766910">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028708" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1595844028707">
+    <state x="873" y="359" key="#Project_Structure/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595845766910" />
+    <state x="735" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595849139935">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028707" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1595844028707">
+    <state x="735" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849139935" />
+    <state width="2502" height="400" key="GridCell.Tab.0.bottom" timestamp="1595849179467">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028707" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1595844028707">
+    <state width="2502" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849179467" />
+    <state width="2502" height="400" key="GridCell.Tab.0.center" timestamp="1595849179467">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028707" />
-    <state x="782" y="343" key="SettingsEditor" timestamp="1595843072514">
+    <state width="2502" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849179467" />
+    <state width="2502" height="400" key="GridCell.Tab.0.left" timestamp="1595849179467">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="782" y="343" key="SettingsEditor/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595843072514" />
+    <state width="2502" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849179467" />
+    <state width="2502" height="400" key="GridCell.Tab.0.right" timestamp="1595849179467">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2502" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849179467" />
+    <state x="811" y="356" key="Maven.ArtifactSearchDialog" timestamp="1595848119115">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="811" y="356" key="Maven.ArtifactSearchDialog/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595848119115" />
+    <state x="1062" y="626" key="SettingsEditor" timestamp="1595848087679">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1062" y="626" key="SettingsEditor/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595848087679" />
     <state x="977" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1595842511535">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -69,9 +112,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="731" y="321" key="new project wizard/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595842851066" />
-    <state x="937" y="331" width="672" height="677" key="run.anything.popup" timestamp="1595844028722">
+    <state x="937" y="331" width="672" height="677" key="run.anything.popup" timestamp="1595849169637">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="937" y="331" width="672" height="677" key="run.anything.popup/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028722" />
+    <state x="937" y="331" width="672" height="677" key="run.anything.popup/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595849169637" />
   </component>
 </project>

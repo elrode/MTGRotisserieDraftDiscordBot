@@ -9,8 +9,9 @@
         <module name="MTGRotisserieDraftDiscordbotMaven" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="MTGRotisserieDraftDiscordbotMaven" target="1.5" />
+    <bytecodeTargetLevel target="6">
+      <module name="MTGRotisserieDraftDiscordBot" target="1.6" />
+      <module name="MTGRotisserieDraftDiscordbotMaven" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

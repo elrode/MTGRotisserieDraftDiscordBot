@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MTGRotisserieDraftDiscordBot.iml" filepath="$PROJECT_DIR$/MTGRotisserieDraftDiscordBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MTGRotisserieDraftDiscordbotMaven/MTGRotisserieDraftDiscordbotMaven.iml" filepath="$PROJECT_DIR$/MTGRotisserieDraftDiscordbotMaven/MTGRotisserieDraftDiscordbotMaven.iml" />
     </modules>
   </component>
 </project>

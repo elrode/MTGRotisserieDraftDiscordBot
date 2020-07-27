@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cQaZVd9IJTYX0UAZcJRIE4V5Ao" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +19,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,5 +39,39 @@
       <updated>1590463326286</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1595844028708">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028708" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1595844028707">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028707" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1595844028707">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028707" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1595844028707">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028707" />
+    <state x="782" y="343" key="SettingsEditor" timestamp="1595843072514">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="343" key="SettingsEditor/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595843072514" />
+    <state x="977" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1595842511535">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="977" y="525" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595842511535" />
+    <state x="731" y="321" key="new project wizard" timestamp="1595842851066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="731" y="321" key="new project wizard/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595842851066" />
+    <state x="937" y="331" width="672" height="677" key="run.anything.popup" timestamp="1595844028722">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="937" y="331" width="672" height="677" key="run.anything.popup/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1595844028722" />
   </component>
 </project>

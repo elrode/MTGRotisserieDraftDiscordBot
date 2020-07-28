@@ -16,7 +16,6 @@ public class DiscordToken {
             Properties props = new Properties();
             props.load(reader);
             token =  props.getProperty("token");
-            System.out.println(token + "instide " );
             reader.close();
         } catch (FileNotFoundException ex) {
                 // file does not exist

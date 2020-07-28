@@ -1,2 +1,12 @@
-discordBot\DiscordToken.class
 discordBot\DiscordBot.class
+magicCards\named\ImageUris.class
+magicCards\named\Legalities.class
+discordBot\Command.class
+magicCards\cardHelpers\CardLegality.class
+magicCards\named\Preview.class
+magicCards\named\RelatedUris.class
+magicCards\named\MTGCard.class
+magicCards\MTGCardHelpers.class
+magicCards\named\PurchaseUris.class
+discordBot\DiscordToken.class
+magicCards\named\Prices.class

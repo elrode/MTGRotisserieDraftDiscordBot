@@ -9,4 +9,5 @@ magicCards\named\MTGCard.class
 magicCards\MTGCardHelpers.class
 magicCards\named\PurchaseUris.class
 discordBot\DiscordToken.class
+magicCards\named\ConsumerOfNamed.class
 magicCards\named\Prices.class

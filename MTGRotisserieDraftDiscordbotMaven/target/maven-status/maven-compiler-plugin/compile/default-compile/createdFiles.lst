@@ -1,5 +1,6 @@
 discordBot\DiscordBot.class
 magicCards\named\ImageUris.class
+discordBot\DiscordBotCommands.class
 magicCards\named\Legalities.class
 discordBot\Command.class
 magicCards\cardHelpers\CardLegality.class

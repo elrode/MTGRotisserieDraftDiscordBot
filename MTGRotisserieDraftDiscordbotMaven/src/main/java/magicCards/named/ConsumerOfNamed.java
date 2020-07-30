@@ -16,7 +16,7 @@ public class ConsumerOfNamed {
     private Logger log = LoggerFactory.getLogger(this.getClass());
 
     public ConsumerOfNamed(String cardName){
-        this.cardName = cardName.replace(" ", "+");
+        this.cardName = cardName.trim().replace(" ", "+");
     }
 
     @Bean

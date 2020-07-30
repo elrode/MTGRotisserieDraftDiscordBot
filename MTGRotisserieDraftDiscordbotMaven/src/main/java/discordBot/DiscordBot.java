@@ -22,7 +22,7 @@ public class DiscordBot {
                 .flatMap(channel -> channel.createMessage("Pong!"))
                 .then());
 
-        commands.put("cardImg", event -> event.getMessage().getChannel()
+        commands.put(DiscordBotCommands.cardImg.getCommand(), event -> event.getMessage().getChannel()
                 .flatMap(channel -> channel.createMessage(MTGCardHelpers.getCardImage(event.getMessage().getContent())))
                 .then());
     }
@@ -42,7 +42,7 @@ public class DiscordBot {
                 .flatMap(event -> Mono.just(event.getMessage().getContent())
                         .flatMap(content -> Flux.fromIterable(commands.entrySet())
                                 // We will be using ! as our "prefix" to any command in the system.
-                                .filter(entry -> content.startsWith('!' + entry.getKey()))
+                                .filter(entry -> content.startsWith(entry.getKey()))
                                 .flatMap(entry -> entry.getValue().execute(event))
                                 .next()))
                 .subscribe();
